@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Jokenpo</string>
+    <string name="win">Você Venceu =]</string>
+    <string name="draw">Empatou!</string>
+    <string name="lose">Você Perdeu =/</string>
+    <string name="stone">Pedra</string>
+    <string name="paper">Papel</string>
+    <string name="scissor">Tesoura</string>
+    <string name="title">Escolha da APP</string>
+    <string name="body">Escolha Uma Opção Abaixo</string>
+    <string name="cpu_choose">O CPU Escolheu %1$s</string>
+    <string name="result">Você Escolheu %1$s</string>
 </resources>
